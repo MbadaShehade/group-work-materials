@@ -1,0 +1,55 @@
+[
+   {
+      "first_name": "name1",
+      "last_name": "last1",
+      "email": "name1.last1@e.braude.ac.il",
+      "courses": ["Physics", "Cloud Computing", "WEB"],
+      "interesting_link": "https://interesting_link1.com",
+      "favorite_program": ""
+   },
+
+   {
+      "first_name": "name2",
+      "last_name": "last2",
+      "email": "name2.last2@e.braude.ac.il",
+      "courses": ["Physics", "Cloud Computing", "WEB"],
+      "interesting_link": "https://interesting_link2.com",
+      "favorite_program": ""
+   },
+
+   {
+      "first_name": "name3",
+      "last_name": "last3",
+      "email": "name3.last3@e.braude.ac.il",
+      "courses": ["Physics", "Cloud Computing", "WEB"],
+      "interesting_link": "https://interesting_link3.com",
+      "favorite_program": ""
+   },
+
+   {
+      "first_name": "name4",
+      "last_name": "last4",
+      "email": "name4.last4@e.braude.ac.il",
+      "courses": ["Physics", "Cloud Computing", "WEB"],
+      "interesting_link": "https://interesting_link4.com",
+      "favorite_program": ""
+   },
+
+   {
+      "first_name": "name5",
+      "last_name": "last5",
+      "email": "name5.last5@e.braude.ac.il",
+      "courses": ["Physics", "Cloud Computing", "WEB"],
+      "interesting_link": "https://interesting_link5.com",
+      "favorite_program": ""
+   },
+
+   {
+      "first_name": "name6",
+      "last_name": "last6",
+      "email": "name6.last6@e.braude.ac.il",
+      "courses": ["Physics", "Cloud Computing", "WEB"],
+      "interesting_link": "https://interesting_link6.com",
+      "favorite_program": ""
+   }
+]
